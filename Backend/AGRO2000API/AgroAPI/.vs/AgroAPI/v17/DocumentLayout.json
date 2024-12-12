@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\programacion 3\\agro2000\\Backend\\AGRO2000API\\AgroAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|c:\\users\\johan\\onedrive\\escritorio\\programacion 3\\agro2000\\backend\\agro2000api\\agroapi\\data\\agrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|solutionrelative:data\\agrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgroContext.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\programacion 3\\agro2000\\Backend\\AGRO2000API\\AgroAPI\\Data\\AgroContext.cs",
+              "RelativeDocumentMoniker": "Data\\AgroContext.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\programacion 3\\agro2000\\Backend\\AGRO2000API\\AgroAPI\\Data\\AgroContext.cs",
+              "RelativeToolTip": "Data\\AgroContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:33:09.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
