@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Escritorio\\programacion 3\\agro2000\\Backend\\AGRO2000API\\AgroAPI\\AgroAPI.csproj",
+      "projectUniqueName": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\AgroAPI.csproj",
       "projectName": "AgroAPI",
-      "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\programacion 3\\agro2000\\Backend\\AGRO2000API\\AgroAPI\\AgroAPI.csproj",
+      "projectPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\AgroAPI.csproj",
       "packagesPath": "C:\\Users\\johan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\programacion 3\\agro2000\\Backend\\AGRO2000API\\AgroAPI\\obj\\",
+      "outputPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johan\\AppData\\Roaming\\NuGet\\NuGet.Config",
