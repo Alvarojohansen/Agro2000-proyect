@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\AgroAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|c:\\users\\johan\\onedrive\\escritorio\\agro200 proyect\\backend\\agro2000api\\agroapi\\data\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|solutionrelative:data\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F772113E-0B5C-44ED-A600-468B6D816E10}|..\\Domain\\Domain.csproj|c:\\users\\johan\\source\\repos\\agro2000-proyect\\backend\\agro2000api\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|c:\\users\\johan\\onedrive\\escritorio\\agro200 proyect\\backend\\agro2000api\\agroapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2627FB38-8FFE-4113-AFB2-51BF2A492C73}|..\\Application\\Application.csproj|c:\\users\\johan\\source\\repos\\agro2000-proyect\\backend\\agro2000api\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|c:\\users\\johan\\onedrive\\escritorio\\agro200 proyect\\backend\\agro2000api\\agroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65F1B57C-BE4A-45DF-A7EC-4B43472053F4}|..\\infraestructure\\infraestructure.csproj|c:\\users\\johan\\source\\repos\\agro2000-proyect\\backend\\agro2000api\\infraestructure\\infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|c:\\users\\johan\\onedrive\\escritorio\\agro200 proyect\\backend\\agro2000api\\agroapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|c:\\users\\johan\\onedrive\\escritorio\\agro200 proyect\\backend\\agro2000api\\agroapi\\data\\agrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1078FAA8-A413-4EC6-93CC-9AAAA3FF58B4}|AgroAPI.csproj|solutionrelative:data\\agrocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65F1B57C-BE4A-45DF-A7EC-4B43472053F4}|..\\infraestructure\\infraestructure.csproj|c:\\users\\johan\\source\\repos\\agro2000-proyect\\backend\\agro2000api\\infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,83 +22,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:16:16.863Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:04:29.732Z",
-              "EditorCaption": ""
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Data\\Entities\\Users.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\Users.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Data\\Entities\\Users.cs",
-              "RelativeToolTip": "Data\\Entities\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\Domain\\Class1.cs",
+              "RelativeToolTip": "..\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:03:46.04Z",
+              "WhenOpened": "2025-02-21T04:41:09.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "Services\\UserServices.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Services\\UserServices.cs",
-              "RelativeToolTip": "Services\\UserServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\Application\\Class1.cs",
+              "RelativeToolTip": "..\\Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T03:03:19.903Z",
+              "WhenOpened": "2025-02-21T04:40:42.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AgroContext.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Data\\AgroContext.cs",
-              "RelativeDocumentMoniker": "Data\\AgroContext.cs",
-              "ToolTip": "C:\\Users\\johan\\OneDrive\\Escritorio\\Agro200 proyect\\Backend\\AGRO2000API\\AgroAPI\\Data\\AgroContext.cs",
-              "RelativeToolTip": "Data\\AgroContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "infraestructure",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\infraestructure\\infraestructure.csproj",
+              "RelativeDocumentMoniker": "..\\infraestructure\\infraestructure.csproj",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\infraestructure\\infraestructure.csproj",
+              "RelativeToolTip": "..\\infraestructure\\infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T04:38:17.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\infraestructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\infraestructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\Agro2000-proyect\\Backend\\AGRO2000API\\infraestructure\\Class1.cs",
+              "RelativeToolTip": "..\\infraestructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:33:09.28Z",
+              "WhenOpened": "2025-02-21T04:37:50.977Z",
               "EditorCaption": ""
             }
           ]
